@@ -104,7 +104,7 @@ $(".btn").click(function(e){
             },500);
             setTimeout(() => {
                 pla();
-            }, 500);
+            }, 1000);
             
         }
         console.log("this is   k : "+ k);
